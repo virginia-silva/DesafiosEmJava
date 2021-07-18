@@ -1,0 +1,11 @@
+
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Έφ¤ϋÿÿÿÿ8¬νέ«/
+m	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ψσχ8 ¬νέ«/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­ΡηΨωÿÿÿÿ
+‰
+java:S1130#"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ϋΏΨ8«¬νέ«/
+>
+java:S2111+"!Use "BigDecimal.valueOf" instead.(°ΚΏπ8²¬νέ«/
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(¦†μα8Έ¬νέ«/
+^
+java:S34579"AFormat specifiers should be used instead of string concatenation.(¦†μα8Ή¬νέ«/
